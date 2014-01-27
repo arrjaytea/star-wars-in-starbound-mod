@@ -1,6 +1,8 @@
 {
   "input" : [
-    { "item" : "money", "count" : 1 }
+	{ "item" : "money", "count" : 2500 },
+	{ "item" : "fabric", "count" : 10 },
+	{ "item" : "aegisaltbar", "count" : 15 }
   ],
   "output" : { "item" : "commandercodylegs", "count" : 1 },
   "groups" : [ "mod", "swworkbench", "armors", "all" ]

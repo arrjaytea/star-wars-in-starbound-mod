@@ -1,6 +1,8 @@
 {
   "input" : [
-    { "item" : "money", "count" : 1 }
+    { "item" : "steelbar", "count" : 35 },
+    { "item" : "silverbar", "count" : 1 },
+    { "item" : "money", "count" : 1200 }
   ],
   "output" : { "item" : "jangochest", "count" : 1 },
   "groups" : [ "mod", "swworkbench", "armors", "all" ]

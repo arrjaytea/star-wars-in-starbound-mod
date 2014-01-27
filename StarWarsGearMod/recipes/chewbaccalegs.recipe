@@ -1,6 +1,8 @@
 {
   "input" : [
-    { "item" : "money", "count" : 1 }
+    { "item" : "money", "count" : 800 },
+	{ "item" : "fabric", "count" : 40 },
+	{ "item" : "titaniumbar", "count" : 10 }
   ],
   "output" : { "item" : "chewbaccalegs", "count" : 1 },
   "groups" : [ "mod", "swworkbench", "armors", "all" ]

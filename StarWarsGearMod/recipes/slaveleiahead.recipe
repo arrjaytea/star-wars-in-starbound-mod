@@ -1,6 +1,7 @@
 {
   "input" : [
-    { "item" : "money", "count" : 1 }
+    { "item" : "copperbar", "count" : 10 }
+    { "item" : "fabric", "count" : 20 }
   ],
   "output" : { "item" : "slaveleiahead", "count" : 1 },
   "groups" : [ "mod", "swworkbench", "armors", "all" ]

@@ -1,6 +1,9 @@
 {
   "input" : [
-    { "item" : "money", "count" : 1 }
+    { "item" : "money", "count" : 400 },
+	{ "item" : "fabric", "count" : 10 },
+	{ "item" : "titaniumbar", "count" : 10 },
+	{ "item" : "goldbar", "count" : 20 }
   ],
   "output" : { "item" : "boushhcape", "count" : 1 },
   "groups" : [ "mod", "swworkbench", "armors", "all" ]

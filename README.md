@@ -1,5 +1,5 @@
 #Star Wars in Starbound Mod	
-*Beta Release 0.4b (1/26/14) - Starbound Beta v. Furious Koala*
+*Beta Release 0.5b (1/27/14) - Starbound Beta v. Furious Koala*
 
 ## Installation Instructions
 
@@ -19,25 +19,26 @@
 3. Copy the folders of the races you wish to install to your Mods folder.
 4. You're done!
 
-#### A Note on the Beta Phase
+### Changelog
 
-Thanks to a review recently left, I realized that I've not addressed the elephant in the room: balance.
+**0.5b** - The Beginning of Tiered Gear - *1/27/14*
 
-Currently the mod basically allows users to craft the items for a cost of one pixel, several force powers are overpowered (though I'm probably going to leave Force Crush overpowered), and no tech items are difficult to obtain. While this is nice to try everything out, it loses it's luster quickly.
+**Major Change to Crafting**
 
-The good news is that I've no intention of keeping it this way.
+**Most** *(read: not all... yet)* items are no longer crafted for 1 pixel and now are assigned recipes that place them squarely in, or near, tiers 1-7.  We're going to see how this goes, but hopefully it's become a bit more rewarding to create and use the items now.
 
-The current state of the beta (Angry Koala) is going to see some major changes, not just in the next patch, but over the coming months. As such, it's incredibly easy to add assets - but balancing them proves more difficult. What seems "balanced" in this version may be wildly off base in the next.
+Currently the items themselves have remained **solely vanity items.**  Within the next week, expect all gear added to the mod to have specs comparable to the tier in which you craft it.
 
-As such, until things settle into a more permanent state - I've chosen to focus on adding content as opposed to balancing items. Hopefully this means there will be a wealth of content ready for polish by the time things settle.
+**To Users Who Want the gear for Free (or 1 pixel)**
 
-Regardless, I hadn't made this clear before (at least not here), so I wanted to be sure you all know my aim isn't just to add the assets - but also to make them meaningful to obtain and use.
+I realize the increased cost for crafting may turn some players off.  For the sake of those who would prefer to have access to all items, all the time, I recommend the [Creative Mode Mod by aMannus](http://community.playstarbound.com/index.php?resources/creative-mode-complete-control-over-your-experience-angry-koala.614/), which is what I use for testing purposes.
 
-Thanks much for your patience!
+**Other Changes**
 
-### **Changelog**
+* Force Crush power reduced dramatically.
+* Further file hierarchy changes.
 
-**0.4b** - Furious Koala Compatibility Update - *1/25/14*
+**0.4b** - Furious Koala Compatibility Update - *1/26/14*
 
 **Additions**
 

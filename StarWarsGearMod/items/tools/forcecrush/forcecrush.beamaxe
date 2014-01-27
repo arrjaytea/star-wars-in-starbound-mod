@@ -15,7 +15,7 @@
   "twoHanded" : true,
   "critical" : true,
   "strikeSound" : "/sfx/tools/pickaxe_hit.wav",
-  "tileDamage" : 200,
+  "tileDamage" : 5,
 
   "image" : "/humanoid/any/forcecrush.png",
   "endImages" : [ "/humanoid/any/ball.png", "/humanoid/any/tileglow.png", "/humanoid/any/4tileglow.png" ],

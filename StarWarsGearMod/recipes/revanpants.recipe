@@ -1,6 +1,8 @@
 {
   "input" : [
-    { "item" : "money", "count" : 1 }
+    	{ "item" : "money", "count" : 800 },
+	{ "item" : "fabric", "count" : 10 },
+	{ "item" : "durasteelbar", "count" : 20 }
   ],
   "output" : { "item" : "revanlegs", "count" : 1 },
   "groups" : [ "mod", "swworkbench", "armors", "all" ]

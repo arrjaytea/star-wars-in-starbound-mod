@@ -1,13 +1,8 @@
 {
-	"input": [
-		{
-			"item": "money",
-			"count": 1
-		}
-	],
-	"output": {
-		"item": "speederbike-chip",
-		"count": 1
-	},
-	"groups": [ "mod", "swworkbench", "all", "other" ]
+  "input" : [
+	{ "item" : "money", "count" : 1400 },
+	{ "item" : "titaniumbar", "count" : 45 }
+  ],
+  "output" : { "item" : "speederbike-chip", "count" : 1 },
+  "groups" : [ "mod", "swworkbench", "armors", "all" ]
 }

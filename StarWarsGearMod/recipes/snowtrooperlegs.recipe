@@ -1,6 +1,8 @@
 {
   "input" : [
-    { "item" : "money", "count" : 1 }
+    	{ "item" : "money", "count" : 800 },
+		{ "item" : "fabric", "count" : 10 },
+		{ "item" : "titaniumbar", "count" : 20 }
   ],
   "output" : { "item" : "snowtrooperlegs", "count" : 1 },
   "groups" : [ "mod", "swworkbench", "armors", "all" ]

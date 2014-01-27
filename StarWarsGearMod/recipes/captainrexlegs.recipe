@@ -1,6 +1,8 @@
 {
   "input" : [
-    { "item" : "money", "count" : 1 }
+	{ "item" : "money", "count" : 2000 },
+	{ "item" : "fabric", "count" : 10 },
+	{ "item" : "Feroziumbar", "count" : 15 }
   ],
   "output" : { "item" : "captainrexlegs", "count" : 1 },
   "groups" : [ "mod", "swworkbench", "armors", "all" ]

@@ -1,0 +1,39 @@
+{
+  "objectName" : "swworkbench",
+  "rarity" : "Legendary",
+  "objectType" : "interactable",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/swworkbench.config",
+    "filter" : [ "swworkbench" ]
+  },
+  "printable" : false,
+  "description" : "Your one stop Star Wars gear crafting station!",
+  "shortdescription" : "Star Wars Workbench",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 200,
+
+  "apexDescription" : "A fancy crafting table from a galaxy far far away.",
+  "avianDescription" : "A mechanical crafting table from a galaxy far far away.",
+  "floranDescription" : "Use the Floran Duke.",
+  "glitchDescription" : "A distant model named 'R2' helped create this.",
+  "humanDescription" : "A lightsaber table! Wee haw!",
+  "hylotlDescription" : "How strange. A crafting table from a galaxy far far away.",
+
+  "inventoryIcon" : "swworkbenchicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "swworkbench.png:<color>.<frame>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 22,
+      "animationCycle" : 2.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

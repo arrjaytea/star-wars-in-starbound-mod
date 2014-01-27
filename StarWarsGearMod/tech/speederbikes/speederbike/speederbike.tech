@@ -1,0 +1,50 @@
+{
+	"script" : "/tech/speederbikes/speederbike.lua",
+	"actions" : ["mechActivate", "mechDeactivate", "mechMove", "mechJump"],
+	"animator" : "speederbike.animation",
+
+	"animationParts" : {
+		"background" : "speederbike_background.png",
+		"body" : "speederbike.png"
+	},
+
+	"mechCustomMovementParameters" : {
+		"standingPoly" : [[-3.7, -0.5], [-2, -2.25], [2, -2.25], [3.7, -0.5], [3.7, 0.5], [1, 2], [-1, 2], [-3.7, 0.5]],
+		"crouchingPoly" : [[-3.7, -0.5], [-2, -2.25], [2, -2.25], [3.7, -0.5], [3.7, 0.5], [1, 2], [-1, 2], [-3.7, 0.5]],
+
+		"mass" : 1.0,
+
+		"normalGroundFriction" : 5.0,
+		"ambulatingGroundFriction" : 1.0,
+		"skiddingGroundFriction" : 1.0,
+
+		"groundForce" : 60.0,
+		"airForce" : 30.0,
+		"liquidForce" : 70.0,
+
+		"walkSpeed" : 15.0,
+		"runSpeed" : 65.0,
+
+		"airJumpProfile" : {
+			"jumpSpeed" : 1,
+			"jumpControlForce" : 700.0,
+			"jumpInitialPercentage" : 0.75,
+			"jumpHoldTime" : 0.15
+		},
+
+		"liquidJumpProfile" : {
+			"jumpSpeed" : 1,
+			"jumpControlForce" : 300.0,
+			"jumpInitialPercentage" : 0.75,
+			"jumpHoldTime" : 0.1
+		}
+	},
+
+	"mechJumpCost" : 100,
+	"mechJumpSpeed": 8,
+	"mechJumpForce": 500,
+	"parentOffset" : [-1.2, 1.2],
+
+	"mechTransformPositionChange" : [0.0, 0.0],
+	"mechTransformCollisionTest" : [-3.5, -2.5, 3.5, 5]
+}

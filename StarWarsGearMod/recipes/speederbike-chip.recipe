@@ -1,0 +1,13 @@
+{
+	"input": [
+		{
+			"item": "money",
+			"count": 1
+		}
+	],
+	"output": {
+		"item": "speederbike-chip",
+		"count": 1
+	},
+	"groups": [ "mod", "swworkbench", "all", "other" ]
+}

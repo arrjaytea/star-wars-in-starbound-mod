@@ -1,0 +1,13 @@
+{
+"projectileName" : "forcelightningprojectile",
+"frames" : "forcelightningprojectile.png",
+"animationCycle" : 0.25,
+"level" : 1,
+"energyCostPerDamagePoint" : 0,
+"frameNumber" : 1,
+"damageKindImage" : "forcelightningprojectileicon.png",
+"pointLight" : true,
+"actionOnReap" : [{"action" : "config","file" : "/projectiles/explosions/forcebolt/forcebolt.config"}],
+"lightColor" : [96, 78, 155],
+"damageKind" : "default"
+}

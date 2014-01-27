@@ -1,0 +1,35 @@
+{
+  "itemName" : "princessleiachest",
+  "inventoryIcon" : "icons.png:chest",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Aren't you a little short for a Storm Trooper?",
+  "shortdescription" : "Princess Leia's Robe Top",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "statusEffects" : [
+    {
+      "kind" : "ColdProtection",
+      "amount" : 1
+    },
+
+    {
+      "kind" : "Protection",
+      "level" : 1,
+      "amount" : 0.5
+    }
+  ]
+}

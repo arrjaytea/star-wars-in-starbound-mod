@@ -1,0 +1,37 @@
+{
+  "itemName" : "commandercodyhead",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Commander Cody's Helmet",
+  "shortdescription" : "Commander Cody's Helm",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "statusEffects" : [
+    {
+      "kind" : "ColdProtection",
+      "amount" : 0
+    },
+
+    {
+      "kind" : "Protection",
+      "level" : 1,
+      "amount" : 0
+    },
+
+    {
+      "kind" : "healthincrease",
+      "amount" : 0
+    },
+	
+	{
+      "kind" : "energyincrease",
+      "amount" : 0
+    }
+  ]
+}

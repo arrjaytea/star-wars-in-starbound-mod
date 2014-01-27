@@ -1,0 +1,10 @@
+{
+	"itemName": "speederbike",
+	"rarity": "Legendary",
+	"inventoryIcon": "/tech/speederbikes/speederbike_techitem.png",
+	"description": "The perfect transportation method for forest moons.",
+	"shortdescription": "Speederbike",
+	"inspectionKind": "tech",
+
+	"techModule": "speederbike.tech"
+}

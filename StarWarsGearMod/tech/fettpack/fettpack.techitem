@@ -1,0 +1,10 @@
+{
+  "itemName" : "fettpack",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "/tech/fettpack.png",
+  "description" : "Press and hold Jump in the air to float around with this jetpack tech.",
+  "shortdescription" : "Fett's Jets",
+  "inspectionKind" : "tech",
+  
+  "techModule" : "fettpack.tech"
+}

@@ -1,0 +1,32 @@
+{
+  "itemName" : "vaderhead",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Darth Vader's helmet.",
+  "shortdescription" : "Vader's Helm",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "statusEffects" : [
+    {
+      "kind" : "ColdProtection",
+      "amount" : 1
+    },
+
+    {
+      "kind" : "Protection",
+      "level" : 1,
+      "amount" : 0.3
+    },
+
+    {
+      "kind" : "energyregenmodifier",
+      "amount" : 3
+    }
+  ]
+}

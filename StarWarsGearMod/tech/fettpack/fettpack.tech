@@ -1,0 +1,9 @@
+{
+  "script" : "fettpack.lua",
+  "actions" : [ "boostRightUp", "boostRightDown", "boostLeftUp", "boostLeftDown", "boostRight", "boostDown", "boostLeft", "boostUp" ],
+  "animator" : "fettpack.animation",
+
+  "boostControlForce" : 300,
+  "boostSpeed" : 40,
+  "energyUsagePerSecond" : 140
+}

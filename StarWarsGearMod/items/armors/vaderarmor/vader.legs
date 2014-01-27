@@ -1,0 +1,31 @@
+{
+  "itemName" : "vaderlegs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Darth Vader's leg armour",
+  "shortdescription" : "Vader's Leg Armour",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+
+  "statusEffects" : [
+    {
+      "kind" : "ColdProtection",
+      "amount" : 1
+    },
+
+    {
+      "kind" : "Protection",
+      "level" : 1,
+      "amount" : 0.2
+    },
+
+    {
+      "kind" : "energyregenmodifier",
+      "amount" : 2
+    }
+  ]
+}

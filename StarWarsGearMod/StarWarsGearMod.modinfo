@@ -1,0 +1,1 @@
+{  "name" : "StarWarsGearMod",  "version" : "Beta v. Furious Koala",  "path" : ".",  "dependencies" : [],  "metadata" : {	"displayName" : "Star Wars in Starbound",    "author" : "arrjaytea",    "description" : "Armor, tech, force powers, and more from the Star Wars universe!",    "support_url" : "http://rainbeefjeff.com",    "version" : "0.4b"	}}

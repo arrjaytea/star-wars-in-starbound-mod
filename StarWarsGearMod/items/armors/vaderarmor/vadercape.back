@@ -1,0 +1,17 @@
+{
+  "itemName" : "vadercape",
+  "inventoryIcon" : "vadercapebackicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Common",
+  "description" : "Vader's Cape.",
+  "shortdescription" : "Vader's Cape",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+
+  "augments" : [
+    {
+      "name" : "aquatic"
+    }
+  ]
+}

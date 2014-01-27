@@ -1,0 +1,17 @@
+{
+  "itemName" : "boushhcape",
+  "inventoryIcon" : "boushhcapebackicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Common",
+  "description" : "Boushh's Cape.",
+  "shortdescription" : "Boushh's Cape",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+
+  "augments" : [
+    {
+      "name" : "aquatic"
+    }
+  ]
+}

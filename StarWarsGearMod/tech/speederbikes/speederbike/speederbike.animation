@@ -1,0 +1,143 @@
+{
+	"animatedParts" : {
+		"stateTypes" : {
+			"movement" : {
+				"default" : "off",
+				"states" : {
+					"off" : {},
+					"idle" : {
+						"frames" : 8,
+						"cycle" : 1.0,
+						"mode" : "loop",
+						"properties" : {
+							"persistentSound" : "/sfx/objects/boosterflame.wav"
+						},
+						"frameProperties" : {
+							"stateNudge" : [[0, 0], [0, -0.1], [0, -0.2], [0, -0.1], [0, 0], [0, 0.1], [0, 0.2], [0, 0.1]]
+						}
+					},
+					"move" : {
+						"frames" : 8,
+						"cycle" : 1.0,
+						"mode" : "loop",
+						"properties" : {
+							"persistentSound" : "/sfx/tech/tech_jetpack.wav"
+						},
+						"frameProperties" : {
+							"stateNudge" : [[0, 0], [0, -0.05], [0, -0.1], [0, -0.05], [0, 0], [0, 0.05], [0, 0.1], [0, 0.05]]
+						}
+					}
+				}
+			}
+		},
+
+		"parts" : {
+
+			"background" : {
+				"properties" : {
+					"centered" : true,
+					"zLevel" : 1,
+					"back" : true
+				},
+
+				"partStates" : {
+					"movement" : {
+						"idle" : {
+							"properties" : {
+								"image" : "speederbike_background.png:idle.<frame>",
+								"offset" : [-0.4, 0.1]
+							}
+						},
+						"move" : {
+							"properties" : {
+								"image" : "speederbike_background.png:idle.<frame>",
+								"offset" : [-0.4, 0.1]
+							}
+						}
+					}
+				}
+			},
+
+			"body" : {
+				"properties" : {
+					"centered" : true,
+					"zLevel" : 3
+				},
+
+				"partStates" : {
+					"movement" : {
+						"idle" : {
+							"properties" : {
+								"image" : "speederbike.png:idle.<frame>",
+								"offset" : [-0.4, 0.1]
+							}
+						},
+						"move" : {
+							"properties" : {
+								"image" : "speederbike.png:idle.<frame>",
+								"offset" : [-0.4, 0.1]
+							}
+						}
+					}
+				}
+			},
+
+			"engine" : {
+				"properties" : {
+					"centered" : true,
+					"zLevel" : 2
+				},
+
+				"partStates" : {
+					"movement" : {
+						"idle" : {
+							"properties" : {
+								"image" : "speederbike_engine.png:off"
+							}
+						},
+						"move" : {
+							"properties" : {
+								"image" : "speederbike_engine.png:on.<frame>",
+								"offset" : [-4.2, 0]
+							}
+						}
+					}
+				}
+			}
+
+		}
+	},
+
+	"particleEmitters" : {
+		"mechActivateParticles" : {
+			"particles" : []
+		},
+		"mechDeactivateParticles" : {
+			"particles" : []
+		},
+		"moveParticles" : {
+			"emissionRate" : 16,
+			"particles" : [{
+					"particle" : {
+						"type" : "ember",
+						"size" : 1.0,
+						"color" : [2, 139, 218, 255],
+						"light" : [94, 182, 236],
+						"fade" : 0.9,
+						"position" : [-4, 0],
+						"initialVelocity" : [-10.0, 0],
+						"finalVelocity" : [0.0, 0.0],
+						"approach" : [-6, 0],
+						"timeToLive" : 0.3,
+						"layer" : "middle",
+						"variance" : {
+							"position" : [0, 0.5],
+							"timeToLive" : 0.2
+						}
+					}
+				}
+			],
+			"flip" : true
+		}
+	}
+}

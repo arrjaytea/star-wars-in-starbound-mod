@@ -1,0 +1,38 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "boosting" : {
+        "default" : "off",
+        "states" : {
+          "off" : {
+          },
+          "on" : {
+            "properties" : {
+              "persistentSound" : "/sfx/projectiles/flame_burning.wav"
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "particleEmitters" : {
+    "boostParticles" : {
+      "emissionRate" : 10.0,
+      "particles" : [
+        {
+          "particle" : "fettpack"
+        },
+        {
+          "particle" : "fettpack"
+        },
+        {
+          "particle" : "fettpack"
+        },
+        {
+          "particle" : "fettpack"
+        }
+      ]
+    }
+  }
+}

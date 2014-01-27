@@ -1,7 +1,41 @@
 #Star Wars in Starbound Mod	
 *Beta Release 0.4b (1/26/14) - Starbound Beta v. Furious Koala*
 
-*Changelog*
+## Installation Instructions
+
+#### Gear Mod Installation Instructions
+
+1. Remove any existing **StarWarsGearMod** folders from the mod directory of your Starbound installation.
+2. Copy entire **StarWarsGearMod** folder to the mod directory of your Starbound installation.
+3. Craft the Star Wars Workbench.
+4. Craft Items at the Star Wars Workbench.
+
+#### Race Mods Installation Instructions
+
+***Note:** Races currently removed while I update them for Furious Koala*
+
+1. Install the [Simple Extended Character Creation Mod](http://community.playstarbound.com/index.php?resources/simple-extended-character-creation-mod-now-even-easier.218/)
+2. In the extracted zip file, navigate to the "races" folder.
+3. Copy the folders of the races you wish to install to your Mods folder.
+4. You're done!
+
+#### A Note on the Beta Phase
+
+Thanks to a review recently left, I realized that I've not addressed the elephant in the room: balance.
+
+Currently the mod basically allows users to craft the items for a cost of one pixel, several force powers are overpowered (though I'm probably going to leave Force Crush overpowered), and no tech items are difficult to obtain. While this is nice to try everything out, it loses it's luster quickly.
+
+The good news is that I've no intention of keeping it this way.
+
+The current state of the beta (Angry Koala) is going to see some major changes, not just in the next patch, but over the coming months. As such, it's incredibly easy to add assets - but balancing them proves more difficult. What seems "balanced" in this version may be wildly off base in the next.
+
+As such, until things settle into a more permanent state - I've chosen to focus on adding content as opposed to balancing items. Hopefully this means there will be a wealth of content ready for polish by the time things settle.
+
+Regardless, I hadn't made this clear before (at least not here), so I wanted to be sure you all know my aim isn't just to add the assets - but also to make them meaningful to obtain and use.
+
+Thanks much for your patience!
+
+### **Changelog**
 
 **0.4b** - Furious Koala Compatibility Update - *1/25/14*
 
@@ -144,12 +178,6 @@ My hope is to have it ready to go as soon as the next patch hits (read: done bef
 
 **v 0.1b** - Initial Release
 
-## Installation Instructions
-
-01. Remove any existing **StarWarsArmorMod** folders from the mod directory of your Starbound installation.
-2. Copy entire **StarWarsArmorMod** folder to the mod directory of your Starbound installation.
-3. Craft for 1 pixel at any metal working station.
-
 ## Current Roster
 
 * Boba Fett
@@ -162,6 +190,17 @@ My hope is to have it ready to go as soon as the next patch hits (read: done bef
 * Jedi Robes
 * Sith Robes
 * Darth Vader
+* Revan
+* Princess Leia
+* Starkiller
+* Darth Sidious
+* Slave Leia
+* Commander Cody
+* Captain Rex
+* Republic Commando
+* Imperial Officers Clothing (Gray and Black)
+* Snowtrooper
+* Chewbacca Costume
 
 ## Requests
 

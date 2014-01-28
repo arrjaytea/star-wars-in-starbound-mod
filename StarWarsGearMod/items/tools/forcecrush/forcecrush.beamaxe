@@ -9,7 +9,7 @@
   "largeImage" : "forcecrushlarge.png",
   "inspectionKind" : "tool",
   "category" : "Tool",
-  "fireTime" : 0.005,
+  "fireTime" : 0.03,
   "blockRadius" : 4,
   "altBlockRadius" : 1,
   "twoHanded" : true,

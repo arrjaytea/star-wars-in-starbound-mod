@@ -1,0 +1,32 @@
+{
+  "objectName" : "flagbothan",
+  "rarity" : "Common",
+
+  "category" : "crafting",
+  "price" : "100",
+
+  "description" : "A Bothan flag. Not made from a Bothan.",
+  "shortdescription" : "Bothan Flag",
+  "race" : "bothan",
+  
+  "apexDescription" : "Many Bothans died for this flag.",
+  "avianDescription" : "I see this Bothan symbol a lot.",
+  "floranDescription" : "Floran like Bothan flag!",
+  "glitchDescription" : "Statement. A Bothan flag.",
+  "humanDescription" : "How many Bothans died to get this flag?",
+  "hylotlDescription" : "A crude and garish Bothan flag.",
+
+  "inventoryIcon" : "flagbothanicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "flagbothan.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

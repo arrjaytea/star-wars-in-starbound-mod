@@ -1,8 +1,8 @@
 {
-  "codexId" : "twilekdreams",
-  "title" : "Twi'lek Dreams",
+  "codexId" : "bothandreams",
+  "title" : "Bothan Dreams",
   "codexkind" : "codex",
-  "itemName" : "twilekdreamsCodex",
+  "itemName" : "bothandreamsCodex",
   "rarity" : "common",
   "description" : "The Bucket List",
   "shortdescription" : "Twi'lek Dreams"

@@ -1,5 +1,5 @@
 #Star Wars in Starbound Mod	
-*Beta Release 0.5.1b (1/27/14) - Starbound Beta v. Furious Koala*
+*Beta Release 0.5.2b (1/28/14) - Starbound Beta v. Furious Koala*
 
 ## Installation Instructions
 
@@ -19,7 +19,13 @@
 
 ### Changelog
 
-**0.5b** - Twi'lek's are back, yo. - *1/27/14*
+**0.5.2b** - Bothans & Bugfixes - *1/27/14*
+
+* Added Bothan species beta.  Emotes need work, so do some hairstyles - but you can achieve some neat things with those in there now.
+* Fixed unnecessary merge happening in the race treasure pools that was giving some users grief.
+* Fixed another conflict that occurred with certain other race mods.
+
+**0.5.1b** - Twi'lek's are back, yo. - *1/27/14*
 
 **0.5b** - The Beginning of Tiered Gear - *1/27/14*
 

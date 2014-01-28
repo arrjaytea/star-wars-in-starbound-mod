@@ -1,0 +1,14 @@
+{
+  "__merge" : [],
+  
+  "paneLayout" : {
+    "species" : {
+      "buttons" : [
+        {
+          "image" : "/interface/title/bothanfemale.png",
+          "position" : [81, 0]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "bothantutorial.gearup",
+  "title" : "^#9be3d6;Time to get down.",
+  "text" : "Wow, that was some launch party! Hopefully nobody gets hurt by all the debris you left behind. But as long as you still have your ^pink;matter manipulator^white; you can gather repair materials. Maybe you left it ^green;in the ship's storage^white;? Press ^green;E ^white;to interact with objects.",
+  "completionText" : "Hm. This actually belonged to someone else. Surprise! I guess you are now a ^red;crook.^white;",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "beamaxe", 1] }
+  ],
+  "moneyRange" : [10, 10],
+  "rewards" : [
+    [ [ "beamaxe", 1] ]
+  ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "tutorial2.gearup"
+}

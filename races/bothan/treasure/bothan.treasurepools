@@ -1,5 +1,5 @@
 {
-  "twilekStarterTreasure" : [
+  "bothanStarterTreasure" : [
     [0, {
         "fill" : [
           "beamaxe",
@@ -7,7 +7,7 @@
           [ "torch", 10],
           [ "coalore", 1],
           [ "wheatseed", 3],
-          [ "twilekstarter", 1]
+          [ "bothanstarter", 1]
         ],
         "levelVariance" : [0, 0],
         "allowDuplication" : false

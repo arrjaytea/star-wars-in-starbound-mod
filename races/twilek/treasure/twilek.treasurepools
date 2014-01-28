@@ -1,0 +1,22 @@
+{
+	"__merge" : [],
+	
+  "twilekStarterTreasure" : [
+    [0, {
+        "fill" : [
+          "beamaxe",
+          "flashlight",
+          [ "torch", 10],
+          [ "coalore", 1],
+          [ "wheatseed", 3],
+		  //[ "copperore", 400],
+		  //[ "ironore", 400],
+		  //[ "generatedgun", 1, { "definition" : "commonassaultrifle" } ],
+          //[ "generatedsword", 1, { "definition" : "crappybroadsword" } ],
+          [ "twilekstarter", 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "kind" : "twilek",
+  "playerSpecies" : true,
+  "nameGen" : [ "/species/twileknamegen.config:names", "/species/twileknamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/twilekhurt_male1.wav", "/sfx/humanoid/twilekhurt_female1.wav" ],
+  "charGenTextLabels" : [ "SKIN COLOR", "LEKKU STYLE", "SHIRT", "PANTS", "UNDY COLOR", "LEKKU COLOR", "SHIRT COLOR", "PANTS COLOR", "TWILEK", "PERSONALITY" ],
+  "defaultBlueprints" : {
+    "tier1" : [
+      { "item" : "humantier1hammer" },
+      { "item" : "humantier1shortsword" },
+      { "item" : "humantier1broadsword" },
+      { "item" : "humantier1spear" },
+      { "item" : "humantier1axe" },
+      { "item" : "humantier1dagger" },
+      { "item" : "humantier1head" },
+      { "item" : "humantier1chest" },
+      { "item" : "humantier1pants" },
+      { "item" : "conceptchest" },
+      { "item" : "conceptlegs" },
+      { "item" : "coolchest" },
+      { "item" : "coollegs" },
+      { "item" : "sweatervestchest" },
+      { "item" : "sweatervestlegs" },
+      { "item" : "workoutchest" },
+      { "item" : "workoutlegs" },
+      { "item" : "burger" },
+      { "item" : "vegetablesoup" },
+      { "item" : "bread" },
+      { "item" : "sweetcorn" },
+      { "item" : "candyapple" },
+      { "item" : "icecream" },
+      { "item" : "flaghuman" }
+    ],
+    "tier2" : [
+      { "item" : "humantier2hammer" },
+      { "item" : "humantier2shortsword" },
+      { "item" : "humantier2broadsword" },
+      { "item" : "humantier2spear" },
+      { "item" : "humantier2axe" },
+      { "item" : "humantier2dagger" },
+      { "item" : "humantier2head" },
+      { "item" : "humantier2chest" },
+      { "item" : "humantier2pants" },
+      { "item" : "spawnerhuman" }
+    ],
+    "tier3" : [
+      { "item" : "humantier3head" },
+      { "item" : "humantier3chest" },
+      { "item" : "humantier3pants" },
+      { "item" : "humantier3hammer" },
+      { "item" : "humantier3shortsword" },
+      { "item" : "humantier3broadsword" },
+      { "item" : "humantier3spear" },
+      { "item" : "humantier3axe" },
+      { "item" : "humantier3dagger" }
+    ],
+    "tier4" : [
+      { "item" : "humantier4head" },
+      { "item" : "humantier4chest" },
+      { "item" : "humantier4pants" },
+      { "item" : "humantier4hammer" },
+      { "item" : "humantier4shortsword" },
+      { "item" : "humantier4broadsword" },
+      { "item" : "humantier4spear" },
+      { "item" : "humantier4axe" },
+      { "item" : "humantier4dagger" }
+    ],
+    "level32" : [
+      { "item" : "humantier5head" },
+      { "item" : "humantier5chest" },
+      { "item" : "humantier5pants" },
+      { "item" : "humantier5hammer" },
+      { "item" : "humantier5shortsword" },
+      { "item" : "humantier5broadsword" },
+      { "item" : "humantier5spear" },
+      { "item" : "humantier5axe" },
+      { "item" : "humantier5dagger" }
+    ],
+    "level33" : [
+      { "item" : "humantier6head" },
+      { "item" : "humantier6chest" },
+      { "item" : "humantier6pants" },
+      { "item" : "humantier6hammer" },
+      { "item" : "humantier6shortsword" },
+      { "item" : "humantier6broadsword" },
+      { "item" : "humantier6spear" },
+      { "item" : "humantier6axe" },
+      { "item" : "humantier6dagger" }
+    ],
+    "level34" : [
+      { "item" : "humantier7head" },
+      { "item" : "humantier7chest" },
+      { "item" : "humantier7pants" },
+      { "item" : "humantier7hammer" },
+      { "item" : "humantier7shortsword" },
+      { "item" : "humantier7broadsword" },
+      { "item" : "humantier7spear" },
+      { "item" : "humantier7axe" },
+      { "item" : "humantier7dagger" }
+    ],
+    "level35" : [
+      { "item" : "humantier8head" },
+      { "item" : "humantier8chest" },
+      { "item" : "humantier8pants" },
+      { "item" : "humantier8hammer" },
+      { "item" : "humantier8shortsword" },
+      { "item" : "humantier8broadsword" },
+      { "item" : "humantier8spear" },
+      { "item" : "humantier8axe" },
+      { "item" : "humantier8dagger" }
+    ],
+    "level36" : [
+      { "item" : "humantier9head" },
+      { "item" : "humantier9chest" },
+      { "item" : "humantier9pants" },
+      { "item" : "humantier9hammer" },
+      { "item" : "humantier9shortsword" },
+      { "item" : "humantier9broadsword" },
+      { "item" : "humantier9spear" },
+      { "item" : "humantier9axe" },
+      { "item" : "humantier9dagger" }
+    ],
+    "level37" : [
+      { "item" : "humantier10head" },
+      { "item" : "humantier10chest" },
+      { "item" : "humantier10pants" },
+      { "item" : "humantier10hammer" },
+      { "item" : "humantier10shortsword" },
+      { "item" : "humantier10broadsword" },
+      { "item" : "humantier10spear" },
+      { "item" : "humantier10axe" },
+      { "item" : "humantier10dagger" }
+    ]
+  },
+  "altOptionAsUndyColor" : true,
+  "headOptionAsHairColor" : true,
+  "genders" : [
+    {
+      "name" : "male",
+      "image" : "/interface/title/male.png",
+      "characterImage" : "/interface/title/twilekmale.png",
+      "hair" : [ 	"1", "2", "3", "4", "5", "6", "7", "8", "9", "10" ],
+      "shirt" : [ "cowboychest", "piratechest", "workoutchest" ],
+      "pants" : [ "cowboylegs", "hikerlegs", "hunterlegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/female.png",
+      "characterImage" : "/interface/title/twilekfemale.png",
+      "hair" : [ 	"1", "2", "3", "4", "5", "6", "7", "8", "9", "10" ],
+      "shirt" : [ "cowboychest", "piratechest", "workoutchest" ],
+      "pants" : [ "cowboylegs", "hikerlegs", "hunterlegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    { "ffe2c5" : "f1e2d3", "ffc181" : "e1c19f", "d39c6c" : "ba9d84", "c7815b" : "ad8874" },
+    { "ffe2c5" : "d3e2f1", "ffc181" : "9fbfe1", "d39c6c" : "84a1ba", "c7815b" : "7499ad" },
+    { "ffe2c5" : "d8f6e0", "ffc181" : "a9edbc", "d39c6c" : "94cca0", "c7815b" : "87c18e" },
+    { "ffe2c5" : "f4d8f6", "ffc181" : "e9a9ed", "d39c6c" : "c594cc", "c7815b" : "b587c1" },
+    { "ffe2c5" : "fbdcd4", "ffc181" : "f8b4a0", "d39c6c" : "d6988d", "c7815b" : "cb847f" }
+  ],
+  "undyColor" : [
+    { "dc1f00" : "4d76ad", "be1b00" : "395187", "951500" : "20325b" },
+    { "dc1f00" : "7c41b8", "be1b00" : "6c2f90", "951500" : "471962" },
+    { "dc1f00" : "c63442", "be1b00" : "9b2724", "951500" : "6a1210" },
+    { "dc1f00" : "eaa245", "be1b00" : "b47020", "951500" : "834a0c" },
+    { "dc1f00" : "e3e13a", "be1b00" : "a8a614", "951500" : "848008" },
+    { "dc1f00" : "6ab841", "be1b00" : "45902f", "951500" : "296219" },
+    { "dc1f00" : "535353", "be1b00" : "363636", "951500" : "111111" },
+    { "dc1f00" : "e6e6e6", "be1b00" : "979797", "951500" : "6f6f6f" },
+    { "dc1f00" : "9e9e9e", "be1b00" : "6e6e6e", "951500" : "434343" },
+    { "dc1f00" : "f794f8", "be1b00" : "d355c1", "951500" : "b72c95" }
+  ],
+  "hairColor" : [
+    { "ffca8a" : "e1c19f", "e0975c" : "ba9d84", "a85636" : "ad8874" },
+    { "ffca8a" : "9fbfe1", "e0975c" : "84a1ba", "a85636" : "7499ad" },
+    { "ffca8a" : "a9edbc", "e0975c" : "94cca0", "a85636" : "87c18e" },
+    { "ffca8a" : "e9a9ed", "e0975c" : "c594cc", "a85636" : "b587c1" },
+    { "ffca8a" : "f8b4a0", "e0975c" : "d6988d", "a85636" : "cb847f" }
+  ]
+}

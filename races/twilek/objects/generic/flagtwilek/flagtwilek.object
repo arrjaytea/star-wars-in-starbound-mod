@@ -1,0 +1,32 @@
+{
+  "objectName" : "flagtwilek",
+  "rarity" : "Common",
+
+  "category" : "crafting",
+  "price" : "100",
+
+  "description" : "A Twi'lek flag. Not made from a Twi'lek.",
+  "shortdescription" : "Twi'lek Flag",
+  "race" : "twilek",
+  
+  "apexDescription" : "A Twi'Lek flag. Looks like it represents their military.",
+  "avianDescription" : "I see this Twi'Lek symbol a lot.",
+  "floranDescription" : "Floran like Twi'Lek flag!",
+  "glitchDescription" : "Statement. A Twi'Lek flag, depicting Twi'Lek lekku.",
+  "humanDescription" : "Interesting tentacles!",
+  "hylotlDescription" : "A crude and garish Twi'Lek flag.",
+
+  "inventoryIcon" : "flagtwilekicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "flagtwilek.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

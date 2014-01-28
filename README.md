@@ -1,5 +1,5 @@
 #Star Wars in Starbound Mod	
-*Beta Release 0.5b (1/27/14) - Starbound Beta v. Furious Koala*
+*Beta Release 0.5.1b (1/27/14) - Starbound Beta v. Furious Koala*
 
 ## Installation Instructions
 
@@ -12,14 +12,14 @@
 
 #### Race Mods Installation Instructions
 
-***Note:** Races currently removed while I update them for Furious Koala*
-
 1. Install the [Simple Extended Character Creation Mod](http://community.playstarbound.com/index.php?resources/simple-extended-character-creation-mod-now-even-easier.218/)
 2. In the extracted zip file, navigate to the "races" folder.
 3. Copy the folders of the races you wish to install to your Mods folder.
 4. You're done!
 
 ### Changelog
+
+**0.5b** - Twi'lek's are back, yo. - *1/27/14*
 
 **0.5b** - The Beginning of Tiered Gear - *1/27/14*
 

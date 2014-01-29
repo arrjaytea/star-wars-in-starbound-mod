@@ -165,7 +165,8 @@
     { "ffe2c5" : "d3e2f1", "ffc181" : "9fbfe1", "d39c6c" : "84a1ba", "c7815b" : "7499ad" },
     { "ffe2c5" : "d8f6e0", "ffc181" : "a9edbc", "d39c6c" : "94cca0", "c7815b" : "87c18e" },
     { "ffe2c5" : "f4d8f6", "ffc181" : "e9a9ed", "d39c6c" : "c594cc", "c7815b" : "b587c1" },
-    { "ffe2c5" : "fbdcd4", "ffc181" : "f8b4a0", "d39c6c" : "d6988d", "c7815b" : "cb847f" }
+    { "ffe2c5" : "fbdcd4", "ffc181" : "f8b4a0", "d39c6c" : "d6988d", "c7815b" : "cb847f" },
+    { "ffe2c5" : "fbdcd4", "ffc181" : "ff4538", "d39c6c" : "cb2c2c", "c7815b" : "ab1818" }
   ],
   "undyColor" : [
     { "dc1f00" : "4d76ad", "be1b00" : "395187", "951500" : "20325b" },
@@ -184,6 +185,7 @@
     { "ffca8a" : "9fbfe1", "e0975c" : "84a1ba", "a85636" : "7499ad" },
     { "ffca8a" : "a9edbc", "e0975c" : "94cca0", "a85636" : "87c18e" },
     { "ffca8a" : "e9a9ed", "e0975c" : "c594cc", "a85636" : "b587c1" },
-    { "ffca8a" : "f8b4a0", "e0975c" : "d6988d", "a85636" : "cb847f" }
+    { "ffca8a" : "f8b4a0", "e0975c" : "d6988d", "a85636" : "cb847f" },
+    { "ffca8a" : "ff4538", "e0975c" : "cb2c2c", "a85636" : "ab1818" }
   ]
 }

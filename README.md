@@ -1,5 +1,5 @@
 #Star Wars in Starbound Mod	
-*Beta Release 0.5.2b (1/28/14) - Starbound Beta v. Furious Koala*
+*Beta Release 0.5.3b (1/29/14) - Starbound Beta v. Furious Koala*
 
 ## Installation Instructions
 
@@ -17,7 +17,23 @@
 3. Copy the folders of the races you wish to install to your Mods folder.
 4. You're done!
 
+### Contributors
+
+Speederbike.lua file courtesy of the excellent [Hoverbike Mod](http://community.playstarbound.com/index.php?resources/hoverbikes.758/) by erlioniel
+
+Lethan color scheme for Twi'leks contributed by [Durallis](http://community.playstarbound.com/index.php?members/durallis.209388/).
+
 ### Changelog
+
+**0.5.3b** - Masks and More - *1/27/14*
+
+With the 5.3 update I welcome Chuckle Forums user [Durallis](http://community.playstarbound.com/index.php?members/durallis.209388/) first contribution to the Star Wars mod: a very nice Lethan color scheme for the Twi'lek race.  Hopefully we'll see some more from Durallis as the mod grows.
+
+Other changes of note:
+
+* Fixed issue with the Slave Leia armor not showing.
+* Added/Fixed almost all new mask.png files for head armor pieces.
+* More Chewie tweaks. Still not thrilled with it.
 
 **0.5.2b** - Bothans & Bugfixes - *1/27/14*
 

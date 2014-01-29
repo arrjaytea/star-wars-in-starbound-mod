@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "copperbar", "count" : 10 }
+    { "item" : "copperbar", "count" : 10 },
     { "item" : "silverbar", "count" : 10 }
   ],
   "output" : { "item" : "slaveleiachest", "count" : 1 },

@@ -3,7 +3,7 @@
   "rarity" : "Common",
 
   "category" : "crafting",
-  "price" : "100",
+  "price" : 100,
 
   "description" : "A Bothan flag. Not made from a Bothan.",
   "shortdescription" : "Bothan Flag",

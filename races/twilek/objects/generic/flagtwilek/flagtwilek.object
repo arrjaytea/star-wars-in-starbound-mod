@@ -3,7 +3,7 @@
   "rarity" : "Common",
 
   "category" : "crafting",
-  "price" : 100,
+  "price" : "100",
 
   "description" : "A Twi'lek flag. Not made from a Twi'lek.",
   "shortdescription" : "Twi'lek Flag",

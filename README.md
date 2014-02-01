@@ -1,5 +1,5 @@
 #Star Wars in Starbound Mod	
-*Beta Release 0.5.3b (1/29/14) - Starbound Beta v. Furious Koala*
+*Beta Release 0.5.4b (2/1/14) - Starbound Beta v. Furious Koala*
 
 ## Installation Instructions
 
@@ -21,11 +21,24 @@
 
 Speederbike.lua file courtesy of the excellent [Hoverbike Mod](http://community.playstarbound.com/index.php?resources/hoverbikes.758/) by erlioniel
 
-Lethan color scheme for Twi'leks contributed by [Durallis](http://community.playstarbound.com/index.php?members/durallis.209388/).
+Twi'lek Species Work done by [Durallis](http://community.playstarbound.com/index.php?members/durallis.209388/) include:
+
+* Lethan Variants
+* Wrapped Lekku
 
 ### Changelog
 
-**0.5.3b** - Masks and More - *1/27/14*
+**0.5.4b** - Two new armor sets, Twi'Leks updated with wrapped lekku option - *2/1/14*
+
+Durallis has continued his work on the Twi'Lek species and added the first option for a "wrapped" lekku - one of the more difficult aspects of the species to this point.  I'm sure we'll continue to see this evolve, but this has a really, really neat effect already.
+
+Complete Changelog:
+
+* Twi'lek color scheme and hairstyles updated by @Durallis
+* Added Mandalore the Preserver Armor v 1.0
+* Added Dash Rendar Gear v 1.0
+
+**0.5.3b** - Lethans, Masks, and More - *1/27/14*
 
 With the 5.3 update I welcome Chuckle Forums user [Durallis](http://community.playstarbound.com/index.php?members/durallis.209388/) first contribution to the Star Wars mod: a very nice Lethan color scheme for the Twi'lek race.  Hopefully we'll see some more from Durallis as the mod grows.
 
